@@ -1,8 +1,12 @@
-# **Git-GitHub-via-comando** :man_student:
+## 📚 INTRODUÇÃO AO GIT E GITHUB - TERMINAL 👨‍🎓
 
-- **Introdução ao Git e ao GitHub**
+🌟 Esse repositório se da um desafio do Tech Lead da Dio Venilton Falvo Jr e tambem minha contribuição de aprendizado que estou iniciando ao longo dos meus estudos.
 
-Curso visa entender os comandos mais usados no Git e GitHub :desktop_computer:
+🔖 Me segue no Github: https://github.com/charlesantunes 👨🏻‍💻
+🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/charles-antunes-49b00057/ 💻
 
-Nesse curso eu tive uma experiência com o git e github total pelo terminal "Git Bash".
-vou deixa na pasta conteúdo, um pouco do que aprendi. Se tiverem interesse seguir os passos desse resumo e ocorrer dúvida, só informar que ajudarei se possível.
+
+
+Resumo está na pasta conteúdo e visa entender os comandos  que usei até o momento no Git e GitHub 🖥️
+
+Nesse curso, tive uma experiência com o Git e Github totalmente pelo terminal "Git Bash". vou deixa na pasta conteúdo, um pouco do que aprendi. Se tiverem interesse em seguir os passos desse resumo e se tiverem alguma dúvida, só informar que ajudarei.
