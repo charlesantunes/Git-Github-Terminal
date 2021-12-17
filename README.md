@@ -3,6 +3,7 @@
 🌟 Esse repositório se da um desafio do Tech Lead da Dio Venilton Falvo Jr e tambem minha contribuição de aprendizado que estou iniciando ao longo dos meus estudos.
 
 🔖 Me segue no Github: https://github.com/charlesantunes 👨🏻‍💻
+
 🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/charles-antunes-49b00057/ 💻
 
 
