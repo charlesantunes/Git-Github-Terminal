@@ -7,6 +7,7 @@
 🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/charles-antunes-49b00057/ 💻
 
 
+**Obs: as imagens serão atualizadas.**
 
 Nesse resumo básico, os créditos são para as aulas de configuração do Desenvolvedor Web do instrutor Otávio Reis da comunidade Digital Innovation One.
 
